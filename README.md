@@ -2,7 +2,7 @@
 
 ### Linguágem utilizada: JavaScript
 
-### As respostas 1, 2 e 5 [estão aqui](testeEtagioTarget.js)
+### As respostas 1, 2 e 5 [estão aqui](testeEstagioTarget.js)
 
 ### As respostas das questões 3 e 4 estão logo abaixo.
 
